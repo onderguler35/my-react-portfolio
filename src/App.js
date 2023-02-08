@@ -7,8 +7,8 @@ function App() {
   
   return (
     <div className="App">
-      <Header brand = {brand}/>
-      <Main brand = {brand} />
+      <Header />
+      <Main />
       <Footer />
     </div>
   );

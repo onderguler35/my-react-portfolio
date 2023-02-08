@@ -1,4 +1,4 @@
-function Main(props) {
+function Main() {
     return (
       <>
   <section id="heroSection" className="heroSection"></section>

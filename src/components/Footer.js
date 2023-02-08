@@ -1,5 +1,5 @@
 
-function Footer(props) {
+function Footer() {
     return (
         <footer>
         {/* a plain simple footer */}
