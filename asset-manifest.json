@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.c6c23a79.css",
+    "main.js": "/my-react-portfolio/static/js/main.60fa5f55.js",
+    "static/media/05-third-party-apis-homework-demo.gif": "/my-react-portfolio/static/media/05-third-party-apis-homework-demo.5b3f62cdcc4cafa34102.gif",
+    "static/media/cityWonderer.JPG": "/my-react-portfolio/static/media/cityWonderer.4f1a755134fc4bdb046f.JPG",
+    "static/media/website-accessibility-test.JPG": "/my-react-portfolio/static/media/website-accessibility-test.c233ac71708cf3ae34de.JPG",
+    "static/media/hero.jpg": "/my-react-portfolio/static/media/hero.e403d123c512dc566bc8.jpg",
+    "static/media/10-server-side-apis-challenge-demo.png": "/my-react-portfolio/static/media/10-server-side-apis-challenge-demo.7e9fcf63d423e8f46b0e.png",
+    "static/media/financeChallenge.JPG": "/my-react-portfolio/static/media/financeChallenge.971c7bf22d3a61d1274b.JPG",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.c6c23a79.css.map": "/my-react-portfolio/static/css/main.c6c23a79.css.map",
+    "main.60fa5f55.js.map": "/my-react-portfolio/static/js/main.60fa5f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c23a79.css",
+    "static/js/main.60fa5f55.js"
+  ]
+}
