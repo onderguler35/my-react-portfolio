@@ -73,11 +73,12 @@ form {
   border-radius: 10px;      
 }
 
-.heroSection {
-  background-image: url("./images/hero.jpg");
+#heroSection {
+  background-image: url('./images/hero.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  height: 100vh;
 }
 
 
